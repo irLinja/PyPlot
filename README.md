@@ -1,2 +1,2 @@
 # PyPlot
-A Sample Plot script with random generated data with matplotlib
+A Simple Plot script with random generated data with matplotlib
